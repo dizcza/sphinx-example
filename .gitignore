@@ -1,0 +1,5 @@
+.idea
+doc/_build
+doc/toctree
+*.pyc
+
